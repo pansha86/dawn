@@ -36,6 +36,59 @@
         "show_text_below": true
       }
     },
+    "multi_column": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woman-in-red-perches-on-stool.jpg",
+            "title": "Womens",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/man-in-suit-bowtie.jpg",
+            "title": "Mens",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/drone-knoll-flatlay.jpg",
+            "title": "Gadgets",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "62b9d796-9856-49e1-a79c-6214db91edac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/turning-smart-home-device-on.jpg",
+            "title": "Home Essential",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "62b9d796-9856-49e1-a79c-6214db91edac"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Show Collection",
+        "button_link": "shopify:\/\/collections",
+        "swipe_on_mobile": true
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "disabled": true,
@@ -130,64 +183,21 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Video",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false
       }
-    },
-    "multi_column": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/woman-in-red-perches-on-stool.jpg",
-            "title": "Womens",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/man-in-suit-bowtie.jpg",
-            "title": "Mens",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/drone-knoll-flatlay.jpg",
-            "title": "Gadgets",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Show Collection",
-        "button_link": "shopify:\/\/collections",
-        "swipe_on_mobile": true
-      }
     }
   },
   "order": [
     "image_banner",
+    "multi_column",
     "rich_text",
     "featured_products",
     "collage",
-    "video",
-    "multi_column"
+    "video"
   ]
 }
