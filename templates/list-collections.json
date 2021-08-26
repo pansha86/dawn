@@ -1,20 +1,11 @@
 {
   "sections": {
-    "main": {
-      "type": "main-list-collections",
-      "settings": {
-        "title": "Collections",
-        "sort": "alphabetical",
-        "image_ratio": "square",
-        "color_scheme": "inverse",
-        "image_padding": false
-      }
-    },
     "1629972934d0b5c875": {
       "type": "image-banner",
       "blocks": {
         "1629972934d0b5c875-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "medium"
@@ -22,12 +13,14 @@
         },
         "1629972934d0b5c875-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template."
           }
         },
         "1629972934d0b5c875-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Button label",
             "button_link_1": "",
@@ -44,6 +37,8 @@
         "1629972934d0b5c875-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/woman-wearing-summer-dress.jpg",
+        "image_2": "shopify:\/\/shop_images\/mens-formal-wear-in-city-alley.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
@@ -52,10 +47,20 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "color_scheme": "inverse",
+        "image_padding": false
+      }
     }
   },
   "order": [
-    "main",
-    "1629972934d0b5c875"
+    "1629972934d0b5c875",
+    "main"
   ]
 }
