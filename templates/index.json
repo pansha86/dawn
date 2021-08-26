@@ -143,14 +143,15 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/woman-swings-scarf-around-her-shoulder.jpg",
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/woman-in-red-perches-on-stool.jpg",
+            "title": "Womens",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/man-in-suit-bowtie.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
@@ -158,6 +159,7 @@
         "column3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/drone-knoll-flatlay.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
