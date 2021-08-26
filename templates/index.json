@@ -2,6 +2,7 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -79,7 +80,7 @@
         "62b9d796-9856-49e1-a79c-6214db91edac"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Overview",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
