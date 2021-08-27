@@ -7,11 +7,12 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#fff",
     "colors_background_2": "#f3f3f3",
-    "type_header_font": "assistant_n4",
+    "type_header_font": "assistant_n6",
     "type_body_font": "assistant_n4",
     "sale_badge_color_scheme": "accent-2",
     "accent_icons": "outline-button",
-    "page_width": "1600",
+    "page_width": "1200",
+    "favicon": "shopify:\/\/shop_images\/Thrift_Shop_Sale_Facebook_Post_2.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
