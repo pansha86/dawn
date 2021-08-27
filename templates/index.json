@@ -89,12 +89,12 @@
         "60168a99-1c32-460d-be07-bac73b3260b5"
       ],
       "settings": {
-        "title": "Overview",
+        "title": "What We Have",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Show Collection",
+        "button_label": "Quick Look Collection",
         "button_link": "shopify:\/\/collections",
         "swipe_on_mobile": true
       }
