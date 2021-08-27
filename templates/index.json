@@ -71,13 +71,22 @@
             "title": "Home Essential",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
+        },
+        "60168a99-1c32-460d-be07-bac73b3260b5": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
         }
       },
       "block_order": [
         "column1",
         "column2",
         "column3",
-        "62b9d796-9856-49e1-a79c-6214db91edac"
+        "62b9d796-9856-49e1-a79c-6214db91edac",
+        "60168a99-1c32-460d-be07-bac73b3260b5"
       ],
       "settings": {
         "title": "Overview",
