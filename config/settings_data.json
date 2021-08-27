@@ -80,6 +80,19 @@
           "enable_language_selector": false,
           "payment_enable": true
         }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "logo_max_width": 100,
+          "color_scheme": "accent-2"
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "color_scheme": "accent-2"
+        }
       }
     },
     "content_for_index": [
