@@ -15,6 +15,7 @@
     "favicon": "shopify:\/\/shop_images\/Untitled_design.png",
     "checkout_header_image": "shopify:\/\/shop_images\/L_O_C_A_L2.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/Untitled_design.png",
+    "checkout_logo_size": "large",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
