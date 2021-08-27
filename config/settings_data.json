@@ -13,6 +13,8 @@
     "accent_icons": "outline-button",
     "page_width": "1200",
     "favicon": "shopify:\/\/shop_images\/Untitled_design.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/Cart_Banner.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Untitled_design.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
