@@ -76,7 +76,7 @@
         "image_ratio": "square",
         "color_scheme": "background-1",
         "swipe_on_mobile": true,
-        "image_padding": false,
+        "image_padding": true,
         "show_view_all": true
       }
     },
