@@ -202,6 +202,42 @@
         "description": "",
         "full_width": false
       }
+    },
+    "16302407608ff7c87f": {
+      "type": "collection-list",
+      "blocks": {
+        "16302407608ff7c87f-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "womens-fashion"
+          }
+        },
+        "16302407608ff7c87f-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mens-fashion-1"
+          }
+        },
+        "16302407608ff7c87f-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kitchen-essential"
+          }
+        }
+      },
+      "block_order": [
+        "16302407608ff7c87f-0",
+        "16302407608ff7c87f-1",
+        "16302407608ff7c87f-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -210,6 +246,7 @@
     "rich_text",
     "featured_products",
     "collage",
-    "video"
+    "video",
+    "16302407608ff7c87f"
   ]
 }
