@@ -14,10 +14,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop Now",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify:\/\/collections\/womens-fashion",
             "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
+            "button_label_2": "Shop Now",
+            "button_link_2": "shopify:\/\/collections\/mens-fashion-1",
             "button_style_secondary_2": false
           }
         }
