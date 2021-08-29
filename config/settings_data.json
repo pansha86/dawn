@@ -23,6 +23,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Shop Now to avail exciting offers",
               "color_scheme": "accent-2",
