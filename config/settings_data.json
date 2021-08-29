@@ -23,10 +23,9 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-1",
+              "text": "Shop Now to avail exciting offers",
+              "color_scheme": "accent-2",
               "link": ""
             }
           }
