@@ -57,12 +57,19 @@
           "settings": {
             "collection": "kitchen-essential"
           }
+        },
+        "5febad9c-132a-45f5-98fe-7476925cbad8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gadgets"
+          }
         }
       },
       "block_order": [
         "16302407608ff7c87f-0",
         "16302407608ff7c87f-1",
-        "16302407608ff7c87f-2"
+        "16302407608ff7c87f-2",
+        "5febad9c-132a-45f5-98fe-7476925cbad8"
       ],
       "settings": {
         "title": "Collections",
