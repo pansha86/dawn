@@ -2,7 +2,6 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -28,6 +27,8 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/support-local-businesses.jpg",
+        "image_2": "shopify:\/\/shop_images\/model-looks-at-the-ground.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
