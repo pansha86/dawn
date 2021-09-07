@@ -77,8 +77,25 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "add_image_padding": true,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "163099940131797e46": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "featured-collection",
+        "products_to_show": 6,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
         "image_ratio": "portrait",
         "show_secondary_image": true,
         "add_image_padding": true,
@@ -90,6 +107,7 @@
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "163099940131797e46"
   ]
 }
