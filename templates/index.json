@@ -2,10 +2,10 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Featured",
             "heading_size": "medium"
@@ -13,12 +13,13 @@
         },
         "button": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Shop Now",
             "button_link_1": "shopify:\/\/collections\/womens-fashion",
             "button_style_secondary_1": false,
             "button_label_2": "Shop Now",
-            "button_link_2": "shopify:\/\/collections\/mens-fashion-1",
+            "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
@@ -28,9 +29,8 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/business-woman-with-wool-hat.jpg",
-        "image_2": "shopify:\/\/shop_images\/single-breasted-mens-suit-on-model.jpg",
-        "adapt_height_first_image": false,
+        "image": "shopify:\/\/shop_images\/Pastel_Pink_Periwinkle_and_White_Salons_Back_to_Business_Landscape_Banner_1_1.png",
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
         "image_overlay_opacity": 0,
