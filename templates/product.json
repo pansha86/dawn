@@ -21,8 +21,8 @@
           "disabled": true,
           "settings": {
             "stars_fill_color": "#e0b700",
-            "star_size": 15,
-            "text_align": "center",
+            "star_size": 20,
+            "text_align": "flex-start",
             "product": "{{product}}",
             "stars_text_empty": "No reviews"
           }
