@@ -239,6 +239,24 @@
         "description": "",
         "full_width": false
       }
+    },
+    "16321371959690af6f": {
+      "type": "globo-alsobought",
+      "disabled": true,
+      "blocks": {
+        "89a41fc3-4436-412d-b588-b5ac23a5cae6": {
+          "type": "select",
+          "settings": {
+            "widget": ""
+          }
+        }
+      },
+      "block_order": [
+        "89a41fc3-4436-412d-b588-b5ac23a5cae6"
+      ],
+      "settings": {
+        "enable": true
+      }
     }
   },
   "order": [
@@ -248,6 +266,7 @@
     "rich_text",
     "featured_products",
     "collage",
-    "video"
+    "video",
+    "16321371959690af6f"
   ]
 }
