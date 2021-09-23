@@ -82,96 +82,6 @@
         "show_view_all": true
       }
     },
-    "multi_column": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/woman-in-red-perches-on-stool.jpg",
-            "title": "For Womens",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/man-in-suit-bowtie.jpg",
-            "title": "For Mens",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/drone-knoll-flatlay.jpg",
-            "title": "Gadgets",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "62b9d796-9856-49e1-a79c-6214db91edac": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/turning-smart-home-device-on.jpg",
-            "title": "Home Essential",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "62b9d796-9856-49e1-a79c-6214db91edac"
-      ],
-      "settings": {
-        "title": "What We Have",
-        "image_width": "full",
-        "image_ratio": "square",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Quick Look Collection",
-        "button_link": "shopify:\/\/collections",
-        "swipe_on_mobile": true
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -188,48 +98,6 @@
         "show_rating": false
       }
     },
-    "collage": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "video": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/woman-with-white-crisp-shopping-carrier-bags.jpg",
-            "video_url": "https:\/\/vimeo.com\/592701667\/23a91404d8",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "limited-edition-watch-for-men-4570699",
-            "second_image": true,
-            "image_padding": false,
-            "secondary_background": true
-          }
-        },
-        "collection": {
-          "type": "collection",
-          "settings": {
-            "collection": "mens-accessories",
-            "image_padding": false,
-            "color_scheme": "background-2"
-          }
-        }
-      },
-      "block_order": [
-        "video",
-        "product",
-        "collection"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
     "video": {
       "type": "video",
       "disabled": true,
@@ -239,34 +107,12 @@
         "description": "",
         "full_width": false
       }
-    },
-    "16321371959690af6f": {
-      "type": "globo-alsobought",
-      "disabled": true,
-      "blocks": {
-        "89a41fc3-4436-412d-b588-b5ac23a5cae6": {
-          "type": "select",
-          "settings": {
-            "widget": ""
-          }
-        }
-      },
-      "block_order": [
-        "89a41fc3-4436-412d-b588-b5ac23a5cae6"
-      ],
-      "settings": {
-        "enable": true
-      }
     }
   },
   "order": [
     "image_banner",
     "16302407608ff7c87f",
-    "multi_column",
-    "rich_text",
     "featured_products",
-    "collage",
-    "video",
-    "16321371959690af6f"
+    "video"
   ]
 }
